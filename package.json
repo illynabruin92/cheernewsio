@@ -1,0 +1,29 @@
+{
+  "name": "cheernewsio",
+  "version": "1.0.0",
+  "description": "news articles provided by web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illynabruin92/cheernewsio.git"
+  },
+  "keywords": [
+    "cheerio",
+    "mongoose",
+    "express",
+    "express-handlebars",
+    "mongoose",
+    "body-parser",
+    "cheerio",
+    "request"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illynabruin92/cheernewsio/issues"
+  },
+  "homepage": "https://github.com/illynabruin92/cheernewsio#readme"
+}
